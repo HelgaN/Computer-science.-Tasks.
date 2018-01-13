@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\программирование\project11\project11\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\программирование\project11\project11\source.cpp(15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project11.vcxproj -> D:\Программирование\Project11\Debug\Project11.exe
+  Project11.vcxproj -> D:\Программирование\Project11\Debug\Project11.pdb (Partial PDB)

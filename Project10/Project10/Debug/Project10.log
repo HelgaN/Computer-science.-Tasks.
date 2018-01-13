@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\программирование\project10\project10\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project10.vcxproj -> D:\Программирование\Project10\Debug\Project10.exe
+  Project10.vcxproj -> D:\Программирование\Project10\Debug\Project10.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\программирование\project3\project3\source.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\программирование\project3\project3\source.cpp(8): warning C4101: 'G': unreferenced local variable
+  Project3.vcxproj -> D:\Программирование\Project3\Debug\Project3.exe
+  Project3.vcxproj -> D:\Программирование\Project3\Debug\Project3.pdb (Partial PDB)
