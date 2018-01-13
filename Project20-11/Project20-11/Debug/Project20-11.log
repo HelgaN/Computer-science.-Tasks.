@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\программирование\project20-11\project20-11\source.cpp(12): warning C4804: '%': unsafe use of type 'bool' in operation
+  Project20-11.vcxproj -> D:\Программирование\Project20-11\Debug\Project20-11.exe
+  Project20-11.vcxproj -> D:\Программирование\Project20-11\Debug\Project20-11.pdb (Partial PDB)

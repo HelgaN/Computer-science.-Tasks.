@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\программирование\project20-17\project20-17\source.cpp(8): warning C4101: 'b': unreferenced local variable
+d:\программирование\project20-17\project20-17\source.cpp(8): warning C4101: 'c': unreferenced local variable
+  Project20-17.vcxproj -> D:\Программирование\Project20-17\Debug\Project20-17.exe
+  Project20-17.vcxproj -> D:\Программирование\Project20-17\Debug\Project20-17.pdb (Partial PDB)
