@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\программирование\project40-5\project40-5\source.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\программирование\project40-5\project40-5\source.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\программирование\project40-5\project40-5\source.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\программирование\project40-5\project40-5\source.cpp(57): warning C4715: 'rootEquations': not all control paths return a value
+  Project40-5.vcxproj -> D:\Программирование\Project40-5\Debug\Project40-5.exe
+  Project40-5.vcxproj -> D:\Программирование\Project40-5\Debug\Project40-5.pdb (Partial PDB)
