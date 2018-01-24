@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\программирование\project40-11\project40-11\source.cpp(29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project40-11.vcxproj -> D:\Программирование\Project40-11\Debug\Project40-11.exe
+  Project40-11.vcxproj -> D:\Программирование\Project40-11\Debug\Project40-11.pdb (Partial PDB)

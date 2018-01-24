@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\программирование\project40-15\project40-15\source.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project40-15.vcxproj -> D:\Программирование\Project40-15\Debug\Project40-15.exe
+  Project40-15.vcxproj -> D:\Программирование\Project40-15\Debug\Project40-15.pdb (Partial PDB)
